@@ -45,7 +45,7 @@
     
     nav ul li {
         display: inline;
-        margin-right: 30px;
+        margin-right: 50px;
     }
     /* Phần danh sách sản phẩm */
     
@@ -53,7 +53,7 @@
         display: grid;
         grid-template-columns: repeat (3, 1fr);
         /* Hiển thị 3 sản phẩm trên mỗi hàng */
-        gap: 20px;
+        gap: 30px;
         /* Khoảng cách giữa các sản phẩm */
         padding: 20px;
         grid-column: 1;
